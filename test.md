@@ -1,1 +1,1 @@
-http://10.0.1.2:5678/webhook-test/065f52a4-9826-4d4a-b6d2-38b33943637b
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8
